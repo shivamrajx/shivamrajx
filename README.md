@@ -8,7 +8,7 @@ I am 15 and I am from Patna. I have been indulged in web developing since I was 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on developing awesome websites.
+- 🔭 I’m currently working on building awesome websites.
 - 🌱 I’m currently learning JavaScript.
 - 💬 Ask me about Web development 
 
