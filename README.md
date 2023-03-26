@@ -11,9 +11,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on developing awesome websites.
 - 🌱 I’m currently learning JavaScript.
 - 💬 Ask me about Web development 
-- 📫 How to reach me: [Mail](mailto:shivam1207raj@gmail.com)
 
-# Want to know more about me?
+## 📫 How to reach me?
 - Visit My [Personal Portfolio Website](https://shivam-raj-2007.github.io/)
-
+- Send queries on my [Mail](mailto:shivam1207raj@gmail.com)
 
