@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me?
 - Visit My [Personal Portfolio Website](https://shivam-raj-2007.github.io/)
-- Send queries on my [Mail](mailto:shivam1207raj@gmail.com)
+- Contact Me Through My [Mail](mailto:shivam1207raj@gmail.com)
 
