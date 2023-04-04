@@ -6,8 +6,6 @@
 ## I'm Shivam Raj <br>
 I am 15 and I am from Patna. I have been indulged in web developing since I was 13. I have always been passionate about it from the begining I enjoy making websites. Some of my other hobbies are listen to music and playing football.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building awesome websites
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about Web development 
