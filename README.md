@@ -3,6 +3,9 @@
 <!--
 **Shivam-Raj-2007/Shivam-Raj-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+![code](https://github.com/Shivam-Raj-2007/Shivam-Raj-2007/assets/74006512/b0eec59c-bd7f-40e2-a68f-92e2b9dfba0c)
+
 ## 🙎‍♂️ I'm Shivam Raj
 I am 15 and I am from Patna. I have been indulged in web developing since I was 13. I have always been passionate about it from the begining I enjoy making websites. Some of my other hobbies are listening to music and playing football.
 
