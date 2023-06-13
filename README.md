@@ -1,4 +1,4 @@
-# **👋 Hi there, nice to meet you !!**
+# **👋 Hi there, nice to meet you!!**
 
 <!--
 **Shivam-Raj-2007/Shivam-Raj-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ I am 15 and I am from Patna. I have been indulged in web developing since I was 
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about Web development 
 
-## 📫 How to reach me ?
+## 📫 How to reach me?
 - Visit My [🌐 Personal Portfolio Website](https://shivam-raj-2007.github.io/)
 - Contact Me Through My [✉️ Mail](mailto:shivam1207raj@gmail.com)
 
