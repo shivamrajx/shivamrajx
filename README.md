@@ -1,7 +1,7 @@
 <!--
 **Shivam-Raj-2007/Shivam-Raj-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# All About [Shivam Raj](https://shivam-raj-2007.github.io/)
+# 👋 All About [Shivam Raj](https://shivam-raj-2007.github.io/)
 
 <img alt="Banner" src="https://github.com/Shivam-Raj-2007/Shivam-Raj-2007/assets/74006512/ce51dce1-7e4d-4e5f-b0c6-a326cc33d913e" width="6700" height="300" align="center"/>
 
