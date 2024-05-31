@@ -12,6 +12,6 @@ I am 16 and I am from Patna. I have been indulged in web developing since I was 
 - 💬 Ask me about Web development 
 
 ## 📫 How to reach me?
-- 🌐 Visit My [Personal Portfolio Website](https://shivam-raj-2007.github.io/)
+- 🌐 Visit My [Personal Portfolio Website](https://shxivam.github.io/)
 - ✉️ Contact Me Through My [Mail](mailto:shivam1207raj@gmail.com)
 
