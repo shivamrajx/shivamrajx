@@ -1,5 +1,5 @@
 <!--
-**Shivam-Raj-2007/Shivam-Raj-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Shivamrajx/shivamrajx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hi, I'm Shivam Raj 👋🏻 👨🏻‍💻
 
